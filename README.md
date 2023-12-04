@@ -2,7 +2,7 @@
 
 DrDir is a powerful tool for scanning web paths, identifying directories and files on web servers.
 
-![DrDir Logo](/imsges/3.jpg)  <!-- Replace 'path/to/logo.png' with the path to your image -->
+![DrDir Logo](images/3.jpg)  <!-- Replace 'path/to/logo.png' with the path to your image -->
 
 ## Features 🌟
 
@@ -28,8 +28,8 @@ dpkg -i drdir_1.0.0_all_linux.deb
 # Run the program
 drdir -h
 ```
-![DrDir Logo](/imsges/1.jpg) 
-![DrDir Logo](/imsges/2.jpg) 
+![DrDir Logo](images/1.jpg) 
+![DrDir Logo](images/2.jpg) 
 ## Usage 🔧
 
 ```bash
@@ -39,7 +39,7 @@ drdir <URL> <Wordlist> [Options]
 - `<URL>`: The URL of the site you wish to scan.
 - `<Wordlist>`: A file containing a list of paths to scan.
 - `[Options]`: Additional options (such as the number of threads).
-![DrDir Logo](/imsges/3.jpg) 
+![DrDir Logo](images/3.jpg) 
 
 ## Contributing 🤝
 
